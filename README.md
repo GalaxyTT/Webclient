@@ -15,3 +15,4 @@ Basierend auf dem vorliegenden Qt-Programmgerüst soll ein einfacher Webclient p
 6. Wenn alles wunschgemäß funktioniert, lade den aktualisierten Quellcode wieder auf deinen Account (git-Ablauf wie gelernt).
 
 ## Dein Name: 
+Julian Dörling
